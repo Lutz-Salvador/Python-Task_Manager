@@ -1,0 +1,11 @@
+admin,adm1n
+King,Boss
+Jon,Tate
+Don,Legend
+K,L
+L,King
+R,JKL
+A,L
+John,Cena
+Mike,Tyson
+F, Boy
